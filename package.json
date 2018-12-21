@@ -1,5 +1,5 @@
 {
-  "name": "random-id-generator",
+  "name": "nice-random-id-generator",
   "version": "0.1.0",
   "description": "Random id generator",
   "main": "app.js",
